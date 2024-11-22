@@ -121,4 +121,4 @@ Una vez que la aplicación esté en funcionamiento, puedes usar herramientas com
 
 **Créditos**
 
-Proyecto desarrollado como parte del curso de Java con Spring Boot.
+Proyecto desarrollado como parte del curso de Java CoderHouse con Spring Boot.
